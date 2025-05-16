@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21720213710",
+    "project_id": "metropol-8aa1b",
+    "storage_bucket": "metropol-8aa1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21720213710:android:dc693c59c09d9733ae089f",
+        "android_client_info": {
+          "package_name": "com.metropol.metropol_mawanda_peter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRDj06dGNrHUb-nuCUOmKaHXUNjXEUzQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
